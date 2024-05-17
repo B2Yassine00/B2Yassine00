@@ -54,7 +54,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="30" alt="rails logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAiCAMAAAA9FerRAAAApVBMVEX/////mQD/lAD/kgAlLz7/lwD/kAAAFSsIGi4AEikMHDAhKzsUITMaJjc/RlHS09XZ2tsAABkACiUAAB/39/i9v8IAACL//PnKy82bnaLm5ueho6iDhozv7/BUWWNITllucnqpq694fIOQk5hjaHD/vHr/sWL/4sr/z6b/wIT/xI3/9/D/1bD/rFP/2rv/59MAAAw1PUr/ozb/t2//nyj/7+L/ypnRuCJHAAAC4ElEQVQ4jd1T23aqMBCNEHKBxGBEq4iIiHelFW3//9PO5GJPbbu6el7PfjEZZ8/s2RkQsphM66qeKnPMlJq7YK6UO6BUpTYwq5t6OkHvKMZUCCGF7gNFvXDhwgM6nDqeC9UDyIpjSnPPmwxinZQl5lhe4Mqwtv+kHCelTZgJsUKooglfVFVfD2eeqPDSZiqB6QgKy3hprss4wdQmlAlXKB1ibNPmH8U6LGNZITRisja3SgDBzsYTKDCLxewz4Y6cJwtwR2NpbgkbYdtbcVPJ6f0ec530rTIzZK71vIpBAZoKBhMobQf5hHQ5nY1ST1wK02jEuNFuC41NzkJihlfpA+2iGeVaa2yJuTbSClaBsaa3lo3JyvpcJoKLVXbnqUEiZFVXC+qI6JLAs10YtKUgUlHnMohoxkxi8f6OOBGFO40dcSV0nmnjaBkXMOJ4fu+RjRqQdfFCNfarknmi4vFIUW18iS+olIuHuWBB3CqOmF8QEOWLMVnMWGkj4/nw0/vVkjl3JxRjF2qkX5VKXhpm9jTTspA6fyA2kruO86F753nDJXarAiISahdrkUivoijcSyzpfTJUx5j1G1jeopLeedjLceZ8wn5hGsrZoinjOBm870GphWB0MEP5gE98RPfdHC/0xQlTksfwWQnKPuz4ZFUXS9Mh94+bpak/+W/YHuE7boqva/e/4Xhan7tu83ZEu9M/0J6uBBAGUbhHr+S2/TVxt9612227DqI9VOlI93uqwy3YmZ81CW+/Fnw8QGovdK3aIAjI9Tdt2zMha3QkxN+fNiSKwmDdPv3Uq92ALwREnoB8x/MtjHpRSLpD+/oN6bXd30gQRWRzhNuZfMxpDbUXBSEJuusB3Hs22La7w7ULDakXkfOzbU32j2W3Z/i/B4giGDp0gFNkghG44Pscuq9jvFlBvU+A+cn59D5/+70Fp2sPPAC6A3Qm3f5H1/7i6bl9O6w3m811fdhtvzMLoT/vKD1qHqf8fQAAAABJRU5ErkJggg==" height="30" alt="amazonwebservices logo"  />
 </div>
 
 ###
